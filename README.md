@@ -1,2 +1,2 @@
 # first-repo
-First repo for lerning
+First repo for learning
